@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://about.gogaucho.app/zh/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://about.gogaucho.app/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://about.gogaucho.app/zh/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://about.gogaucho.app/zh/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://about.gogaucho.app/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://about.gogaucho.app/zh/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://about.gogaucho.app/zh/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://about.gogaucho.app/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://about.gogaucho.app/zh/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://about.gogaucho.app/zh/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://about.gogaucho.app/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://about.gogaucho.app/zh/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://about.gogaucho.app/zh/policy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://about.gogaucho.app/policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://about.gogaucho.app/zh/policy/"
+                />
+  </url>
+  
+</urlset>

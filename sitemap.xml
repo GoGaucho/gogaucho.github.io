@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://about.gogaucho.app/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://about.gogaucho.app/zh/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://about.gogaucho.app/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://about.gogaucho.app/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://about.gogaucho.app/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://about.gogaucho.app/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://about.gogaucho.app/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://about.gogaucho.app/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://about.gogaucho.app/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://about.gogaucho.app/join/</loc>
+  </url>
+  
+  <url>
+    <loc>https://about.gogaucho.app/policy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://about.gogaucho.app/zh/policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://about.gogaucho.app/policy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://about.gogaucho.app/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://about.gogaucho.app/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://about.gogaucho.app/tags/"
+                />
+  </url>
+  
+</urlset>
